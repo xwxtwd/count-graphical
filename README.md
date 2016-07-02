@@ -2,7 +2,7 @@
 
 
 ```
-node countTriangles.js
+node countGraphical.js
 ```
 * 输入每条线段上面的点
 
